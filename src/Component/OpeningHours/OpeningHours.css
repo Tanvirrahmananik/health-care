@@ -1,0 +1,12 @@
+.hour{
+    box-shadow: 10px 10px 10px 10px gray;
+    text-align: center;
+}
+.hour:hover{
+    background-color: lightgrey;
+}
+.line{
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
